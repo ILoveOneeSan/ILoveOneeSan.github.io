@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jul 2019 21:08:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Anime</title>
+      <link>http://localhost:1313/post/anime/</link>
+      <pubDate>Sun, 07 Jul 2019 21:08:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/anime/</guid>
+      <description> Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka list of animes  </description>
+    </item>
+    
+    <item>
+      <title>Anime2</title>
+      <link>http://localhost:1313/post/anime2/</link>
+      <pubDate>Sun, 07 Jul 2019 21:08:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/anime2/</guid>
+      <description> list of animes list of animes  </description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/post/filename/</link>
+      <pubDate>Sun, 07 Jul 2019 20:56:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/filename/</guid>
+      <description> content </description>
+    </item>
+    
+  </channel>
+</rss>
